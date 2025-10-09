@@ -1,6 +1,6 @@
 # 🚗 WegoPro - Luxury Car Rental Platform
 
-![WegoPro Preview](https://codepen.io/Nadine-Haragua/full/LEGypjg)
+![WegoPro Preview](https://codepen.io/Nadine-Haragua/full/OPMgyxK)
 
 A premium car rental website featuring advanced CSS animations, 3D car models, and interactive UI components.
 
